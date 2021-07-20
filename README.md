@@ -12,9 +12,9 @@
 
 ### 代码仓库
 
-[Github]("前往GitHub仓库")
+主要仓库（实时更新）[gitee](https://gitee.com/dnovo/template-uni-app "前往gitee仓库")
 
-[GitLab]("前往GitLab仓库")
+次要仓库（更新可能不及时） [GitHub]("前往GitHub仓库")
 
 ---
 
